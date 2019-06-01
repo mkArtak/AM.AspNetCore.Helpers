@@ -1,3 +1,4 @@
 **/bin/
 **/obj/
 /src/Hosting/src/.vs/**/
+/samples/TimedWorker/.vs/
