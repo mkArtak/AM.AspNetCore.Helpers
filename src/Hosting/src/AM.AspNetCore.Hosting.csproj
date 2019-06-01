@@ -11,6 +11,7 @@
     <PackageTags>generic, host, aspnetcore, aspnet, core</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="AM.Common.Validation" Version="2.5.2" />
